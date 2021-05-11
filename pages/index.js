@@ -7,10 +7,10 @@ export default function Home() {
         <title>Nabaya Technologies</title>
         <meta
           name="keywords"
-          content="graphic design,branding, large format printing"
+          content="graphic design, branding, large format printing"
         ></meta>
       </head>
-      <h1>Welcome to NEXTjs</h1>
+      <h1>Welcome to Home of Creativity</h1>
     </div>
   );
 }

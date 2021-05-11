@@ -1,9 +1,11 @@
-import React from "react";
-
+import Head from "next/head";
 const about = () => {
   return (
     <div>
-      <h1>About Page</h1>
+      <Head>
+        <title>About Page</title>
+      </Head>
+      <h1>About</h1>
     </div>
   );
 };
